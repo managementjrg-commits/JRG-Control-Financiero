@@ -1,0 +1,7 @@
+{
+  "appId": "com.jrg.micontrolfinanciero",
+  "appName": "JRG Mi Control Financiero",
+  "webDir": "www",
+  "backgroundColor": "#073b29",
+  "bundledWebRuntime": false
+}
